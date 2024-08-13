@@ -1,2 +1,2 @@
 # PROJETO-INTEGRADOR-2T
-Segunda entrega projeto intregador grupo 2
+Segunda entrega projeto integrador grupo 2
