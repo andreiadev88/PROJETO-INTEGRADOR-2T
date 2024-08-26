@@ -24,7 +24,7 @@ Matricular aluno<br>
 
 
 ## :spiral_notepad: Diagrama de Caso de Uso:<br>
-![](https://raw.githubusercontent.com/andreiadev88/PROJETO-INTEGRADOR-2T/main/Diagrama%20Casos%20de%20Uso.jpg)
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Inicial.png)
 <br>
 ## :clipboard: Diagrama de Classes UML:<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/DiagramaClasse05.jpg?raw=true)
