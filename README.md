@@ -24,14 +24,17 @@ Matricular aluno<br>
 
 
 ## :spiral_notepad: Diagrama de Caso de Uso:<br>
-![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Inicial.png)
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Diagrama%20Casos%20de%20Uso.jpg)
 <br>
 ## :clipboard: Diagrama de Classes UML:<br>
-![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/DiagramaClasse05.jpg?raw=true)
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/DiagramaClasse05.jpg)
 
 ## :desktop_computer: Tela Inicial:<br>
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Inicial.png)
 
-## :pencil: Tela de Cadastro:<br>
+## :pencil: Tela de Cadastro PF:<br>
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Cadastro%20PESSOA%20F%C3%8DS%C3%8DCA.png)
+
 
 ## :round_pushpin: Tela de Login:<br>
 
