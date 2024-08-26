@@ -40,5 +40,5 @@ Matricular aluno<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20de%20Login.png)
 
 ## :globe_with_meridians: Cursos [Ambiente Virtual]<br>
-
+## :gear: Administração<br>
 ## :busts_in_silhouette: Desenvolvedores:<br>
