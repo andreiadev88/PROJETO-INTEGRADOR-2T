@@ -15,12 +15,13 @@ Alterar Dados<br>
 Realizar Cadastro<Br>
 Realizar Login<br>
 Alterar Dados<br>
-Fornecer Produtos/Serviços<br>
-Gerenciar conteúdo/acervo da biblioteca<br>
 
 
 #### Administração/Universidade:<br>
 Matricular aluno<br>
+Fornecedor Produtos/Serviços<br>
+Cadastro Fornecedor<br>
+Gerenciar conteúdo/acervo da biblioteca<br>
 
 
 ## :spiral_notepad: Diagrama de Caso de Uso:<br>
