@@ -35,6 +35,8 @@ Matricular aluno<br>
 ## :pencil: Tela de Cadastro PF:<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Cadastro%20PESSOA%20F%C3%8DS%C3%8DCA.png)
 
+## :pencil: Tela de Cadastro PF:<br>
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Cadastro%20PESSOA%20JUR%C3%8DDICA.png)
 
 ## :round_pushpin: Tela de Login:<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20de%20Login.png)
