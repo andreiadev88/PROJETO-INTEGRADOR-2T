@@ -41,10 +41,10 @@ Matricular aluno<br>
 ## :round_pushpin: Tela de Login:<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20de%20Login.png)
 
-## :globe_with_meridians: Cursos [Ambiente Virtual Aluno]<br>
+## :man_student: Cursos [Ambiente Virtual Aluno]<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Alunos.png)
 
-## :globe_with_meridians: Cursos [Ambiente Virtual Professor]<br>
+## :man_teacher: Cursos [Ambiente Virtual Professor]<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Professor.png)
 
 ## :gear: Administração<br>
