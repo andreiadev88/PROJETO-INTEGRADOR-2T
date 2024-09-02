@@ -30,7 +30,7 @@ Matricular aluno<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/DiagramaClasse05.jpg)
 
 ## :desktop_computer: Tela Inicial:<br>
-![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Inicial.png)
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Inicial%202.png)
 
 ## :pencil: Tela de Cadastro PF:<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Cadastro%20PESSOA%20F%C3%8DS%C3%8DCA.png)
@@ -41,6 +41,23 @@ Matricular aluno<br>
 ## :round_pushpin: Tela de Login:<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20de%20Login.png)
 
-## :globe_with_meridians: Cursos [Ambiente Virtual]<br>
+## :globe_with_meridians: Cursos [Ambiente Virtual Aluno]<br>
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Alunos.png)
+
+## :globe_with_meridians: Cursos [Ambiente Virtual Professor]<br>
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Professor.png)
+
 ## :gear: Administração<br>
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Administra%C3%A7%C3%A3o.png)
+
+## :shopping_cart: Fornecedor<br>
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Fornecedor.png)
+
 ## :busts_in_silhouette: Desenvolvedores:<br>
+ANDREIA DOS SANTOS SILVA
+BRENDA SANTOS SOUZA
+BRUNO SANTOS MARQUES
+CHRISTIANE ESTEVAM MAGALHAES
+GABRIEL DOS ANJOS DE OLIVEIRA MOURA
+GERVASIO LOPES DE SOUSA FILHO
+LUIZ FERNANDO DE OLIVEIRA PENTEADO
