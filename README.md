@@ -14,7 +14,7 @@ Acessar Biblioteca<br>
 Consultar Notas<br>
 
 
-#### Pessoa Física (PROFESSOR):<br>
+### Pessoa Física (PROFESSOR):<br>
 Realizar Cadastro<br>
 Realizar Login<br>
 Página Inicial<br>
@@ -25,7 +25,7 @@ Disciplinas<br>
 Acessar Biblioteca Virtual<br>
 
 
-#### Administração/Universidade:<br>
+### Administração/Universidade:<br>
 Página Inicial<br>
 Matricular Aluno<br>
 Cadastro Fornecedor<br>
