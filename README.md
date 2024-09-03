@@ -5,7 +5,7 @@
 
 #### Funcionalidades:
 
-Pessoa Física (ALUNO):<br>
+### Pessoa Física (ALUNO):<br>
 Realizar Cadastro<br>
 Realizar Login<br>
 Página Inicial<br>
@@ -14,22 +14,28 @@ Acessar Biblioteca<br>
 Consultar Notas<br>
 
 
-#### Pessoa Jurídica (PROFESSOR/FORNECEDOR):
-Realizar Cadastro
-Realizar Login
-Página Inicial
-Planejar Aulas
-Avaliar aluno
-Avisos
-Disciplinas
-Acessar Biblioteca Virtual
+#### Pessoa Física (Professor):<br>
+Realizar Cadastro<br>
+Realizar Login<br>
+Página Inicial<br>
+Planejar Aulas<br>
+Avaliar Aluno<br>
+Avisos<br>
+Disciplinas<br>
+Acessar Biblioteca Virtual<br>
 
 
 #### Administração/Universidade:<br>
-Página Inicial
-Matricular aluno
-Cadastro Fornecedor
-Gerenciar conteúdo/acervo da biblioteca
+Página Inicial<br>
+Matricular Aluno<br>
+Cadastro Fornecedor<br>
+Gerenciar conteúdo/acervo da biblioteca<br>
+
+### Pessoa Jurídica (FORNECEDOR):<br>
+Página Inicial<br>
+Alterar dados<br>
+Cadastrar produto/serviço<br>
+Gerenciar acervo da Biblioteca<br>
 
 
 ## :spiral_notepad: Diagrama de Caso de Uso:<br>
