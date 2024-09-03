@@ -14,7 +14,7 @@ Acessar Biblioteca<br>
 Consultar Notas<br>
 
 
-#### Pessoa Física (Professor):<br>
+#### Pessoa Física (PROFESSOR):<br>
 Realizar Cadastro<br>
 Realizar Login<br>
 Página Inicial<br>
