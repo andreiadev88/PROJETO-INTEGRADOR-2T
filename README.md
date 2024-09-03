@@ -3,25 +3,33 @@
 
 ## :school: Sistema para Universidade 
 
-### Funcionalidades:
+#### Funcionalidades:
 
-#### Pessoa Física:
+Pessoa Física (ALUNO):<br>
 Realizar Cadastro<br>
 Realizar Login<br>
-Alterar Dados<br>
+Página Inicial<br>
+Acessar Aulas<br>
+Acessar Biblioteca<br>
+Consultar Notas<br>
 
 
-#### Pessoa Jurídica:<br>
-Realizar Cadastro<Br>
-Realizar Login<br>
-Alterar Dados<br>
+#### Pessoa Jurídica (PROFESSOR/FORNECEDOR):
+Realizar Cadastro
+Realizar Login
+Página Inicial
+Planejar Aulas
+Avaliar aluno
+Avisos
+Disciplinas
+Acessar Biblioteca Virtual
 
 
 #### Administração/Universidade:<br>
-Matricular aluno<br>
-Fornecedor Produtos/Serviços<br>
-Cadastro Fornecedor<br>
-Gerenciar conteúdo/acervo da biblioteca<br>
+Página Inicial
+Matricular aluno
+Cadastro Fornecedor
+Gerenciar conteúdo/acervo da biblioteca
 
 
 ## :spiral_notepad: Diagrama de Caso de Uso:<br>
@@ -55,10 +63,10 @@ Gerenciar conteúdo/acervo da biblioteca<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Fornecedor.png)
 
 ## :busts_in_silhouette: Desenvolvedores:<br>
-ANDREIA DOS SANTOS SILVA<br>
-BRENDA SANTOS SOUZA<br>
-BRUNO SANTOS MARQUES<br>
-CHRISTIANE ESTEVAM MAGALHAES<br>
-GABRIEL DOS ANJOS DE OLIVEIRA MOURA<br>
-GERVASIO LOPES DE SOUSA FILHO<br>
-LUIZ FERNANDO DE OLIVEIRA PENTEADO<br>
+ANDREIA DOS SANTOS SILVA https://github.com/andreiadev88 <br>
+BRENDA SANTOS SOUZA https://github.com/brend4sz<br>
+BRUNO SANTOS MARQUES https://github.com/Bruno-SMarques<br>
+CHRISTIANE ESTEVAM MAGALHAES https://github.com/ChrisMaga<br>
+GABRIEL DOS ANJOS DE OLIVEIRA MOURA https://github.com/Gabr1el-Anjos<br>
+GERVASIO LOPES DE SOUSA FILHO https://github.com/GervasioLopes<br>
+LUIZ FERNANDO DE OLIVEIRA PENTEADO https://github.com/LuizFPenteado<br>
