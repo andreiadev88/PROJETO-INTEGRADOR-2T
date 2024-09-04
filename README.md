@@ -75,5 +75,5 @@ Gerenciar acervo da Biblioteca<br>
 <a href="https://github.com/ChrisMaga">CHRISTIANE ESTEVAM MAGALHAES</a><br>
 <a href="https://github.com/Gabr1el-Anjos">GABRIEL DOS ANJOS DE OLIVEIRA MOURA</a><br>
 <a href="https://github.com/GervasioLopes">GERVASIO LOPES DE SOUSA FILHO</a><br>
-<a href="https://github.com/LuizFPenteado">LUIZ FERNANDO DE OLIVEIRA PENTEADO</a><br>
+<a href="https://github.com/LuizFPenteado">LUIZ FERNANDO DE OLIVEIRA PENTEADO</a><br
 
