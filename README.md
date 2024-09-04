@@ -77,5 +77,5 @@ Gerenciar acervo da Biblioteca<br>
 <a href="https://github.com/GervasioLopes">GERVASIO LOPES DE SOUSA FILHO</a><br>
 <a href="https://github.com/LuizFPenteado">LUIZ FERNANDO DE OLIVEIRA PENTEADO</a><br>
 
-<a href="https://github.com/LuizFPenteado">teste01</a><br
+
 
