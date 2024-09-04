@@ -69,10 +69,11 @@ Gerenciar acervo da Biblioteca<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Fornecedor.png)
 
 ## :busts_in_silhouette: Desenvolvedores:<br>
-ANDREIA DOS SANTOS SILVA https://github.com/andreiadev88 <br>
-BRENDA SANTOS SOUZA https://github.com/brend4sz<br>
-BRUNO SANTOS MARQUES https://github.com/Bruno-SMarques<br>
-CHRISTIANE ESTEVAM MAGALHAES https://github.com/ChrisMaga<br>
-GABRIEL DOS ANJOS DE OLIVEIRA MOURA https://github.com/Gabr1el-Anjos<br>
-GERVASIO LOPES DE SOUSA FILHO https://github.com/GervasioLopes<br>
-LUIZ FERNANDO DE OLIVEIRA PENTEADO https://github.com/LuizFPenteado<br>
+<a href="https://github.com/andreiadev88">ANDREIA DOS SANTOS SILVA</a><br>
+<a href="https://github.com/brend4sz">BRENDA SANTOS SOUZA</a><br>
+<a href="https://github.com/Bruno-SMarques">BRUNO SANTOS MARQUES</a><br>
+<a href="https://github.com/ChrisMaga">CHRISTIANE ESTEVAM MAGALHAES</a><br>
+<a href="https://github.com/Gabr1el-Anjos">GABRIEL DOS ANJOS DE OLIVEIRA MOURA</a><br>
+<a href="https://github.com/GervasioLopes">GERVASIO LOPES DE SOUSA FILHO</a><br>
+<a href="https://github.com/LuizFPenteado">LUIZ FERNANDO DE OLIVEIRA PENTEADO</a><br>
+
