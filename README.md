@@ -5,7 +5,7 @@
 
 #### Funcionalidades:
 
-### Pessoa Física (ALUNO):<br>
+### Pesoa Física (ALUNO):<br>
 Realizar Cadastro<br>
 Realizar Login<br>
 Página Inicial<br>
