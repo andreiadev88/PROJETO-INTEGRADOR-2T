@@ -1,4 +1,4 @@
-# Projeto Integrador - Fase 2 (Grupo 2)
+# Projeto Integrador - Fase 2 (Grupo )
 ## Prototipação de um Sistema Orientado a Objetos
 
 ## :school: Sistema para Universidade 
