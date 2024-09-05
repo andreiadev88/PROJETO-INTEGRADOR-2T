@@ -66,7 +66,13 @@ Gerenciar acervo da Biblioteca<br>
 ![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Administra%C3%A7%C3%A3o.png)
 
 ## :shopping_cart: Fornecedor<br>
-![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Fornecedor.png)
+![](https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/img/Tela%20Aba%20Fornecedor.png)<br><br>
+<br>
+## :large_blue_diamond: Link do Protótipo<br>
++ <a href="https://www.figma.com/design/KmN2SQRa5XHYTKld4wqMX0/PI_Grupo2_Prototipa%C3%A7%C3%A3o-Sistema-Orientado-Objetos?node-id=0-1&t=bpwhDADw7Y5JC9Wq-1">PROTÓTIPO NO FIGMA</a><br><br>
+
+## :page_facing_up: PI - 3º Semestre | Grupo 02<br>
++ <a href="https://github.com/andreiadev88/PROJETO-INTEGRADOR-2T/blob/main/PI_Grupo_2_SegundaEntrega.pdf">DOCUMENTAÇÃO DO PI</a><br><br>
 
 ## :busts_in_silhouette: Desenvolvedores:<br>
 <a href="https://github.com/andreiadev88">ANDREIA DOS SANTOS SILVA</a><br>
